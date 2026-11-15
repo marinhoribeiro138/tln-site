@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <!-- Monaco Basket Association: redesenhado à mão a partir da imagem que o
+       Marinho enviou (bola em traço vermelho com «MBA»). É provisório: trocar
+       pelo ficheiro oficial do clube quando houver. -->
+  <g fill="none" stroke="#E30613" stroke-width="7" stroke-linecap="round">
+    <circle cx="200" cy="205" r="166"/>
+    <path d="M62 128C140 62 268 62 340 132"/>
+    <path d="M150 48c46 96 40 218-34 300"/>
+    <path d="M236 43c-12 104-10 222 6 326"/>
+    <path d="M304 78c58 82 34 208-34 276"/>
+  </g>
+  <g font-family="Rockwell, 'Rockwell Std', 'Roboto Slab', 'Courier New', Georgia, serif" font-weight="700" font-size="150" text-anchor="middle" letter-spacing="6">
+    <text x="200" y="252" fill="#E30613" stroke="#E30613" stroke-width="22" stroke-linejoin="round">MBA</text>
+    <text x="200" y="252" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="11" stroke-linejoin="round">MBA</text>
+    <text x="200" y="252" fill="#FFFFFF" stroke="#E30613" stroke-width="4" stroke-linejoin="round">MBA</text>
+  </g>
+</svg>
